@@ -1,13 +1,17 @@
 MCQ Test Portal
-Overview
+----------------
+
+Overview:- 
 The MCQ Test Portal is a web-based application developed for users to take multiple-choice questions (MCQ) tests. It offers features such as test creation, test-taking, result tracking, and an admin portal. The system uses Django as the backend framework with SQLite as the database, and it is designed to be lightweight and user-friendly.
 
-Features
+Features:-
 User Registration and Authentication
 Test Creation (Admin)
 MCQ Test Interface for Users
 Storing and Retrieving Test Results
 Analytics on Test Performance
+
+
 Technologies Used
 Backend
 Python: Core programming language.
